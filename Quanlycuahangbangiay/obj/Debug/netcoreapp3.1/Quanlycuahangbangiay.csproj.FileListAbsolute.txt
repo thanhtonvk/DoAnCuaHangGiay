@@ -1,0 +1,26 @@
+C:\Users\user\source\repos\Quanlycuahangbangiay\Quanlycuahangbangiay\obj\Debug\netcoreapp3.1\Quanlycuahangbangiay.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Quanlycuahangbangiay\Quanlycuahangbangiay\obj\Debug\netcoreapp3.1\Quanlycuahangbangiay.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Quanlycuahangbangiay\Quanlycuahangbangiay\obj\Debug\netcoreapp3.1\Quanlycuahangbangiay.AssemblyInfo.cs
+C:\Users\user\source\repos\Quanlycuahangbangiay\Quanlycuahangbangiay\obj\Debug\netcoreapp3.1\Quanlycuahangbangiay.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Quanlycuahangbangiay\Quanlycuahangbangiay\bin\Debug\netcoreapp3.1\Quanlycuahangbangiay.exe
+C:\Users\user\source\repos\Quanlycuahangbangiay\Quanlycuahangbangiay\bin\Debug\netcoreapp3.1\Quanlycuahangbangiay.deps.json
+C:\Users\user\source\repos\Quanlycuahangbangiay\Quanlycuahangbangiay\bin\Debug\netcoreapp3.1\Quanlycuahangbangiay.runtimeconfig.json
+C:\Users\user\source\repos\Quanlycuahangbangiay\Quanlycuahangbangiay\bin\Debug\netcoreapp3.1\Quanlycuahangbangiay.runtimeconfig.dev.json
+C:\Users\user\source\repos\Quanlycuahangbangiay\Quanlycuahangbangiay\bin\Debug\netcoreapp3.1\Quanlycuahangbangiay.dll
+C:\Users\user\source\repos\Quanlycuahangbangiay\Quanlycuahangbangiay\bin\Debug\netcoreapp3.1\Quanlycuahangbangiay.pdb
+C:\Users\user\source\repos\Quanlycuahangbangiay\Quanlycuahangbangiay\obj\Debug\netcoreapp3.1\Quanlycuahangbangiay.dll
+C:\Users\user\source\repos\Quanlycuahangbangiay\Quanlycuahangbangiay\obj\Debug\netcoreapp3.1\Quanlycuahangbangiay.pdb
+C:\Users\user\source\repos\Quanlycuahangbangiay\Quanlycuahangbangiay\obj\Debug\netcoreapp3.1\Quanlycuahangbangiay.genruntimeconfig.cache
+C:\Users\thanh\Documents\Zalo Received Files\Quanlycuahangbangiay\Quanlycuahangbangiay\Quanlycuahangbangiay\bin\Debug\netcoreapp3.1\Quanlycuahangbangiay.exe
+C:\Users\thanh\Documents\Zalo Received Files\Quanlycuahangbangiay\Quanlycuahangbangiay\Quanlycuahangbangiay\bin\Debug\netcoreapp3.1\Quanlycuahangbangiay.deps.json
+C:\Users\thanh\Documents\Zalo Received Files\Quanlycuahangbangiay\Quanlycuahangbangiay\Quanlycuahangbangiay\bin\Debug\netcoreapp3.1\Quanlycuahangbangiay.runtimeconfig.json
+C:\Users\thanh\Documents\Zalo Received Files\Quanlycuahangbangiay\Quanlycuahangbangiay\Quanlycuahangbangiay\bin\Debug\netcoreapp3.1\Quanlycuahangbangiay.runtimeconfig.dev.json
+C:\Users\thanh\Documents\Zalo Received Files\Quanlycuahangbangiay\Quanlycuahangbangiay\Quanlycuahangbangiay\bin\Debug\netcoreapp3.1\Quanlycuahangbangiay.dll
+C:\Users\thanh\Documents\Zalo Received Files\Quanlycuahangbangiay\Quanlycuahangbangiay\Quanlycuahangbangiay\bin\Debug\netcoreapp3.1\Quanlycuahangbangiay.pdb
+C:\Users\thanh\Documents\Zalo Received Files\Quanlycuahangbangiay\Quanlycuahangbangiay\Quanlycuahangbangiay\obj\Debug\netcoreapp3.1\Quanlycuahangbangiay.csprojAssemblyReference.cache
+C:\Users\thanh\Documents\Zalo Received Files\Quanlycuahangbangiay\Quanlycuahangbangiay\Quanlycuahangbangiay\obj\Debug\netcoreapp3.1\Quanlycuahangbangiay.AssemblyInfoInputs.cache
+C:\Users\thanh\Documents\Zalo Received Files\Quanlycuahangbangiay\Quanlycuahangbangiay\Quanlycuahangbangiay\obj\Debug\netcoreapp3.1\Quanlycuahangbangiay.AssemblyInfo.cs
+C:\Users\thanh\Documents\Zalo Received Files\Quanlycuahangbangiay\Quanlycuahangbangiay\Quanlycuahangbangiay\obj\Debug\netcoreapp3.1\Quanlycuahangbangiay.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Documents\Zalo Received Files\Quanlycuahangbangiay\Quanlycuahangbangiay\Quanlycuahangbangiay\obj\Debug\netcoreapp3.1\Quanlycuahangbangiay.dll
+C:\Users\thanh\Documents\Zalo Received Files\Quanlycuahangbangiay\Quanlycuahangbangiay\Quanlycuahangbangiay\obj\Debug\netcoreapp3.1\Quanlycuahangbangiay.pdb
+C:\Users\thanh\Documents\Zalo Received Files\Quanlycuahangbangiay\Quanlycuahangbangiay\Quanlycuahangbangiay\obj\Debug\netcoreapp3.1\Quanlycuahangbangiay.genruntimeconfig.cache
